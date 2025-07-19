@@ -158,3 +158,46 @@ a {
     padding-left: 25%;
     padding-right: 25%;
 }
+
+.fourthsec {
+    margin: 3% 25%;
+    padding: 2% 5%;
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+    color: white;
+    gap: 20px;
+}
+
+.downlow-text {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 3px;
+}
+
+.sec-text2 {
+    font-size: 16px;
+    color: #e5e7eb;
+    font-weight: 600;
+}
+
+.fourthsec .signup {
+    border: 2px white solid;
+    flex: 1 1 50%;
+    min-width: 55px;
+}
+
+.footer {
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.footer {
+    background-color: #1f2937;
+    padding: 24px 14px;
+    text-align: center;
+    color: #e5e7eb;
+    margin-top: auto;
+}
